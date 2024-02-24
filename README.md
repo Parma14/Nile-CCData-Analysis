@@ -14,6 +14,7 @@
 Summary:
 
 Billing Questions Dominate Calls: Billing queries constitute the majority (71.22%) of customer service calls, indicating a significant pain point for customers.
+
 Common Complaints: Root cause analysis reveals that billing-related issues are the most prevalent, suggesting a need for proactive measures to address and prevent such problems.
 Customer Sentiment Analysis: A substantial number of calls (11063) exhibit negative sentiments, emphasizing the importance of improving customer satisfaction in interactions.
 SLA Performance: While a significant portion of responses (20625) falls within SLA, there is room for improvement in addressing queries below SLA (8148) and above SLA (4168).
