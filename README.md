@@ -1,14 +1,14 @@
 # Nile-CCData-Analysis
 
-# Load the data and change file type csv to excel workbook
-# Checked fro the duplicate values and errors in the data
-# Changed the date type from text to date type and arranged it in asec order
-# Created a column Week so that I can distribute the data weekly and categorise the data
-# Created a calculation sheet for the calculation part to check and know the data
-# Craeted a sheet name Sentimenmt analysis where I have used pivot table and calculated the reason and sentiments of the customer to know the major issue of customer calls 
-# Created sheet name Root Cause analysis where I have checked for the state wise and city wise call volume and found the call distribution as per city and stated and reason for call to call center 
-# In sheet Customer calls I have distributed the calls as per SLA, Reasons, Call Center and chanel of calls 
-# In weekly data there is a distribution of calls as per week and I have created 5 week of the month October 
+### Load the data and change file type csv to excel workbook
+### Checked fro the duplicate values and errors in the data
+### Changed the date type from text to date type and arranged it in asec order
+### Created a column Week so that I can distribute the data weekly and categorise the data
+### Created a calculation sheet for the calculation part to check and know the data
+### Craeted a sheet name Sentimenmt analysis where I have used pivot table and calculated the reason and sentiments of the customer to know the major issue of customer calls 
+### Created sheet name Root Cause analysis where I have checked for the state wise and city wise call volume and found the call distribution as per city and stated and reason for call to call center 
+### In sheet Customer calls I have distributed the calls as per SLA, Reasons, Call Center and chanel of calls 
+### In weekly data there is a distribution of calls as per week and I have created 5 week of the month October 
 
 
 Summary:
